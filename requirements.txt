@@ -3,4 +3,4 @@ pandas
 scipy
 matplotlib
 seaborn
-streamlit babel
+streamlit
