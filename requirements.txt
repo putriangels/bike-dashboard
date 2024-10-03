@@ -2,5 +2,5 @@ numpy
 pandas
 scipy
 matplotlib
-seaborn jupyter
+seaborn
 streamlit babel
