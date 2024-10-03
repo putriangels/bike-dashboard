@@ -1,4 +1,4 @@
-# Bike Sharing Dashboard :bicyclist:
+# Bike Rentals Dashboard :bicyclist:
 
 ## Setup ennvironment
 ```
